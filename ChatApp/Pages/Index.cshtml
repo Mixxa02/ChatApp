@@ -1,0 +1,94 @@
+﻿@page
+<style>
+    .container {
+        font-family: 'Century Gothic';
+    }
+    .currentRoom {
+        border: none;
+        font-size: 36px;
+        font-weight: bold;
+        background-color: transparent;
+        color: white;
+        padding-left: 0px;
+    }
+
+    #polje {
+        border-bottom: 1px solid rgb(139, 139, 139);
+        margin-bottom: 15px;
+    }
+
+    input {
+        border-radius: 7px;
+        border: 1px solid black;
+        padding-left: 10px;
+    }
+
+    input[type=button] {
+        background-color: #b5e6ff;
+        border: none;
+    }
+
+    input[type=button]:hover {
+        background-color: #0893d8;
+        transition-duration: 150ms;
+        color: white;
+        box-shadow: 0px 0px 10px #b5e6ff59;
+    }
+
+    .imageMessage {
+        width: 50%;
+    }
+</style>
+<div class="container">
+    <div class="row p-1">
+        <div class="col-1"><input type="text" class="currentRoom" disabled></div>
+    </div>
+    <div class="row p-1" id="polje">
+        <div class="col-1">Create room</div>
+        <div class="col-4"><input type="text" id="roomName" /></div>
+        <div class="col-1"><input type="button" id="addRoom" value="Add room" /></div>
+    </div>
+    <div class="row p-1" id="polje">
+        <div class="col-1">Join room</div>
+        <!--<div class="col-4"><input type="text" id="joinRoomName" /></div>
+        </div>-->
+        <div class="col-4">
+        <select id="roomSelector">
+        <option value="General">General</option>
+        </select>
+        </div>
+        <div class="col-1"><input type="button" id="joinRoom" value="Join room" /></div>
+    
+    </div>
+    <div class="row p-1" id="polje">
+        <div class="col-1">User</div>
+        <div class="col-5"><input type="text" id="userInput" required/></div>
+    </div>
+    <div class="row p-1">
+        <div class="col-1"><p id="messageParagraph">Message</p></div>
+        <div class="col-5"><input type="text" class="w-100" id="messageInput" /></div>
+    </div>
+    <div class="row p-1">
+        <form action="/action_page.php">
+            <label for="img" id="selectImgLbl">Select image </label>
+            <input type="file" id="slika" name="img" accept="image/*" onchange="uploadFile(this)">
+        </form>
+    </div>
+    <div class="row p-1">
+        <div class="col-6 text-end">
+            <input type="button" id="sendButton" value="Send Message" />
+        </div>
+    </div>
+    <div class="row p-1">
+        <div class="col-6">
+            <hr />
+        </div>
+    </div>
+    <div class="row p-1">
+        <div class="col-6">
+            <ul id="messagesList"></ul>
+        </div>
+    </div>
+</div>
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/chat.js"></script>

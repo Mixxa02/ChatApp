@@ -1,0 +1,113 @@
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\appsettings.Development.json
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\appsettings.json
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.staticwebassets.runtime.json
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.exe
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.deps.json
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.runtimeconfig.json
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.dll
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.pdb
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.csproj.AssemblyReference.cache
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.AssemblyInfoInputs.cache
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.AssemblyInfo.cs
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.csproj.CoreCompileInputs.cache
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.MvcApplicationPartsAssemblyInfo.cache
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.RazorAssemblyInfo.cache
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.RazorAssemblyInfo.cs
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.ChatApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatApp.props
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatApp.props
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatApp.props
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\scopedcss\bundle\ChatApp.styles.css
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\scopedcss\projectbundle\ChatApp.bundle.scp.css
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.csproj.CopyComplete
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.dll
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\refint\ChatApp.dll
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.pdb
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.genruntimeconfig.cache
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ref\ChatApp.dll
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\appsettings.Development.json
+D:\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\appsettings.json
+D:\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.staticwebassets.runtime.json
+D:\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.exe
+D:\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.deps.json
+D:\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.runtimeconfig.json
+D:\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.dll
+D:\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.pdb
+D:\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\NBP-1-REDIS\ChatApp\ChatApp\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.csproj.AssemblyReference.cache
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.AssemblyInfoInputs.cache
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.AssemblyInfo.cs
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.csproj.CoreCompileInputs.cache
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.MvcApplicationPartsAssemblyInfo.cache
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.RazorAssemblyInfo.cache
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.RazorAssemblyInfo.cs
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.sourcelink.json
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.ChatApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatApp.props
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatApp.props
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatApp.props
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\scopedcss\bundle\ChatApp.styles.css
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\scopedcss\projectbundle\ChatApp.bundle.scp.css
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.csproj.CopyComplete
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.dll
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\refint\ChatApp.dll
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.pdb
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.genruntimeconfig.cache
+D:\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ref\ChatApp.dll
+D:\AKADEMSKI MATERIJAL\NBP PROJEKAT REDIS\NBP-1-REDIS\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.sourcelink.json
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.staticwebassets.runtime.json
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.exe
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.deps.json
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.runtimeconfig.json
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.dll
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.pdb
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.csproj.AssemblyReference.cache
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.AssemblyInfoInputs.cache
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.AssemblyInfo.cs
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.RazorAssemblyInfo.cache
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.RazorAssemblyInfo.cs
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.ChatApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.build.ChatApp.props
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ChatApp.props
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ChatApp.props
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\scopedcss\bundle\ChatApp.styles.css
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\scopedcss\projectbundle\ChatApp.bundle.scp.css
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.csproj.CopyComplete
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.dll
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\refint\ChatApp.dll
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.pdb
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.genruntimeconfig.cache
+C:\Users\Mihajlo\Documents\FAX\4. godina\Napredne baze\NBP-1-REDIS-main\NBP-1-REDIS-main\ChatApp\ChatApp\obj\Debug\net8.0\ref\ChatApp.dll
